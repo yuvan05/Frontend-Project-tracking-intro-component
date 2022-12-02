@@ -53,7 +53,7 @@ I started to feel much more comfortable using CSS Grid and flexbox together. It 
 
 ## Author
 
-- Website - [Algirdas](https://github.com/yuvan05/Frontend-Project-tracking-intro-component)
-- Frontend Mentor - [@Algirdase](https://www.frontendmentor.io/profile/yuvan05)
+- Website - [Yuvan](https://github.com/yuvan05/Frontend-Project-tracking-intro-component)
+- Frontend Mentor - [@Yuvan05](https://www.frontendmentor.io/profile/yuvan05)
 
 
