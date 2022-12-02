@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/AlgirdasU/Project-tracking-intro-component-master)
+- Solution URL: (https://github.com/yuvan05/Frontend-Project-tracking-intro-component)
 - Live Site URL: (https://chimerical-haupia-af853c.netlify.app/)
 
 ## My process
@@ -53,7 +53,7 @@ I started to feel much more comfortable using CSS Grid and flexbox together. It 
 
 ## Author
 
-- Website - [Algirdas](https://github.com/AlgirdasU/Project-tracking-intro-component-master)
-- Frontend Mentor - [@Algirdase](https://www.frontendmentor.io/profile/AlgirdasU)
-- Twitter - [@AlgirdasDdd](https://twitter.com/algirdasddd)
+- Website - [Algirdas](https://github.com/yuvan05/Frontend-Project-tracking-intro-component)
+- Frontend Mentor - [@Algirdase](https://www.frontendmentor.io/profile/yuvan05)
+
 
