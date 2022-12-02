@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/yuvan05/Frontend-Project-tracking-intro-component)
-- Live Site URL: (https://chimerical-haupia-af853c.netlify.app/)
+- Live Site URL: (https://Frontend-Project-tracking-intro-component.yuvan05.repl.co)
 
 ## My process
 
